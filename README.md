@@ -1,3 +1,3 @@
 # ckoylu
 
-This repository is used for 3050. 
+This repository is used for GEOG 3050/5055 Geospatial Programming. 
